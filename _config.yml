@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "dotoleeoak's blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "최재민 Jaemin Choi"
+name                     : "Jaemin Choi"
 description              : "An amazing website."
 url                      : "https://dotoleeoak.github.io"
 baseurl                  : 
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "최재민 Jaemin Choi"
+  name             : "최재민 (dotoleeoak)"
   avatar           : "/assets/images/stardew valley.png"
   bio              : "이것저것 배우는 중"
   location         : "Republic of Korea"
